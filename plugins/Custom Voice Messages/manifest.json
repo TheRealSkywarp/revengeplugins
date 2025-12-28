@@ -1,0 +1,22 @@
+{
+    "name": "Custom Voice Messages",
+    "description": "Allows sending any audio as a voice message.",
+    "authors": [
+        {
+            "name": "Dziurwa",
+            "id": "1034579679526526976"
+        },
+        {
+            "name": "シグマ siguma",
+            "id": "737597276339437578"
+        },
+        {
+            "name": "Skywarp",
+            "id": "488357912436146179"
+        }
+    ],
+    "main": "src/index.ts",
+    "vendetta": {
+        "icon": "voice_bar_mute_off"
+    }
+}
